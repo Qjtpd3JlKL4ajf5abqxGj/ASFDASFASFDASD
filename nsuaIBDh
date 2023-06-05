@@ -1,4 +1,3 @@
-local key = {
-1AJQ-8QMZ-9GHZ-MHVN
-}
-return key
+local Key = {
+1AJQ-8QMZ-9GHZ-MHVN,
+} return Key
